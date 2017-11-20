@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.Mvc;
 using WebApplication1.Models;
 using System.Linq.Dynamic;
-
+//The SQL controller responsible for formatting the data from the database into a format suitable for a webgrid.
 
 namespace WebApplication1.Controllers
 {

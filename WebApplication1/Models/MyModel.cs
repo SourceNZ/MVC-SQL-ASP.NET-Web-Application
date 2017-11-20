@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 
+//This is the ASP.NET Model for the Northwind tables(Products, Categories and Suppliers)
 namespace WebApplication1.Models
 {
     public class MyModel

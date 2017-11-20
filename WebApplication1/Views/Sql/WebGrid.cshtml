@@ -1,4 +1,7 @@
-﻿@model IEnumerable<WebApplication1.Models.MyModel>
+﻿
+@*this is the cshtml file responsible for the webgrids format and sorting functions as well as showing the SQL request in the textbox below the webgrid*@
+
+@model IEnumerable<WebApplication1.Models.MyModel>
 @{
     ViewBag.Title = "WebGrid";
     var grid = new WebGrid(null,
