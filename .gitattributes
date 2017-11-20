@@ -3,6 +3,8 @@
 
 # Custom for Visual Studio
 *.cs     diff=csharp
+.nuget/* linguist-vendored
+Scripts/* linguist-vendored
 
 # Standard to msysgit
 *.doc	 diff=astextplain
